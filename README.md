@@ -87,9 +87,13 @@ Dataset information
 
 Data describe
 
+![](https://github.com/KumaravelIT/Ex-04-Multivariate-Analysis/blob/main/3.jpg)
+
 
 
 Checking and cleaning of null values
+
+![](https://github.com/KumaravelIT/Ex-04-Multivariate-Analysis/blob/main/4.jpg)
 
 
 
@@ -97,25 +101,29 @@ Checking and cleaning of null values
 
 Data types
 
+![](https://github.com/KumaravelIT/Ex-04-Multivariate-Analysis/blob/main/5.jpg)
 
 
 Scatterplot
 
-
+![](https://github.com/KumaravelIT/Ex-04-Multivariate-Analysis/blob/main/6.jpg)
 
 Barplot
 
 
+![](https://github.com/KumaravelIT/Ex-04-Multivariate-Analysis/blob/main/7(1).jpg)
 
+![](https://github.com/KumaravelIT/Ex-04-Multivariate-Analysis/blob/main/7(2).jpg)
 
-
-
+![](https://github.com/KumaravelIT/Ex-04-Multivariate-Analysis/blob/main/7(3).jpg)
 
 Correlation coefficient interpretation
 
-
+![](https://github.com/KumaravelIT/Ex-04-Multivariate-Analysis/blob/main/8.jpg)
 
 Heatmap
+
+![](https://github.com/KumaravelIT/Ex-04-Multivariate-Analysis/blob/main/9.jpg)
 
 # Result
 Thus we have read the given data and performed the multivariate analysis with different types of plots.
