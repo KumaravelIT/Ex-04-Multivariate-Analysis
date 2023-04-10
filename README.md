@@ -83,6 +83,8 @@ Dataset
 
 Dataset information
 
+![](https://github.com/KumaravelIT/Ex-04-Multivariate-Analysis/blob/main/2.jpg)
+
 Data describe
 
 
