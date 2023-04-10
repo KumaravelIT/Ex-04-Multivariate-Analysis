@@ -79,7 +79,8 @@ sns.heatmap(df.corr(),annot=True)
 # Output
 Dataset
 
-![](github.com/KumaravelIT/Ex-04-Multivariate-Analysis/blob/main/1.jpg)
+![](http://github.com/KumaravelIT/Ex-04-Multivariate-Analysis/blob/main/1.jpg)
+
 Dataset information
 
 Data describe
